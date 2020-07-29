@@ -37,7 +37,7 @@
       },
       "brave-core": {
         "dir": "src/brave",
-        "branch": "ios-sync-brandon-bj",
+        "branch": "ios-sync-brandon-bj-pj",
         "repository": {
           "url": "https://github.com/brave/brave-core.git"
         }
